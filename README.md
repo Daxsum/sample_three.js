@@ -1,2 +1,2 @@
-# sample_three.js
+# Three-sample
 Created with CodeSandbox
